@@ -1,0 +1,6 @@
+include this in the head:
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">  <!-- Logo Text Font -->
+
+in CSS:
+font-family: 'Playfair Display';

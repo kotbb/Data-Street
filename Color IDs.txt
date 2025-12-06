@@ -1,0 +1,8 @@
+Blue: #0d2833
+Blue2: #2d2e29
+White: #f6f5f1
+Grey: #838b8e
+Grey2: #999894
+
+
+
