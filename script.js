@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function(){
         document.getElementById("nav-contact").classList.add("active");
     }
 });
-// This for mobile Devices to toggle the active
+// //This for mobile Devices to toggle the active
 // function toggleMenu() {
 //     document.querySelector('.nav-links').classList.toggle('active');
 // }
