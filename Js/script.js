@@ -11,6 +11,7 @@ const headerHTML = `
     <ul class="nav-links">
         <li><a href="index.html" id="nav-home">HOME</a></li>
         <li><a href="teams.html" id="nav-teams">TEAMS</a></li>
+        <li><a href="partnerships.html" id="nav-partnerships">PARTNERSHIPS</a></li>
         <li><a href="contact.html" id="nav-contact">CONTACT US</a></li>
     </ul>
 </div>
@@ -45,6 +46,8 @@ document.addEventListener('DOMContentLoaded', function(){
         document.getElementById("nav-home").classList.add("active");
     } else if (currentPage === "teams.html") {
         document.getElementById("nav-teams").classList.add("active");
+    } else if (currentPage === "partnerships.html") {
+        document.getElementById("nav-partnerships").classList.add("active");
     } else if (currentPage === "contact.html") {
         document.getElementById("nav-contact").classList.add("active");
     }
